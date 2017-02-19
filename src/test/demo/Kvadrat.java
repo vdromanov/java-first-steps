@@ -7,6 +7,6 @@ public class Kvadrat implements Area {
         return a*a;
     }
     public float getPerimeter() {
-        return a*2;
+        return 2*a;
     }
 }
